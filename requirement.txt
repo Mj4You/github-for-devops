@@ -5,3 +5,5 @@
   253  clear
   254  gtit commit -m
   255  git commit -m "First commit"
+
+This some new changes added to requirements.
