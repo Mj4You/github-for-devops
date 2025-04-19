@@ -1,0 +1,7 @@
+ git status
+  250  git add ptesting.py
+  251  git add testing.py
+  252  git status
+  253  clear
+  254  gtit commit -m
+  255  git commit -m "First commit"
